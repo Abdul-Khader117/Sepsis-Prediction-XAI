@@ -119,10 +119,6 @@ Once executed, Streamlit will boot the local server. Open your browser and navig
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🤝 Contact & Citation
 
 Developed by **Abdul Khader**. If you use this CDSS or build upon the clinical methods in your academic research, please refer to the attached paper: `Sepsis_Prediction_Research_Paper_final.pdf`.
